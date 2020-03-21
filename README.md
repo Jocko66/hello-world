@@ -1,2 +1,4 @@
 # hello-world
-here we go
+here we go: https://guides.github.com/activities/hello-world/ 
+
+:) 
