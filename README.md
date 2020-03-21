@@ -6,4 +6,6 @@ here we go: https://guides.github.com/activities/hello-world/
 @Jocko66 :+1:
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji 
 
-::):
+:smiley:
+https://www.webfx.com/tools/emoji-cheat-sheet/ 
+
